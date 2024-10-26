@@ -1,0 +1,1 @@
+Por alguma razão que desconheço, quando aberto por meio dessa plataforma, o site não carrega nenhuma das imagens presentes no projeto. Tentei consertar a falha de todos os modos que conheço, mas nada funcionou... se alguém souber como solucionar, eu agradeceria.
